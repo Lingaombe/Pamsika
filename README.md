@@ -1,2 +1,2 @@
 # Pamsika
-mini e-commerce 
+mini e-commerce site mockup
